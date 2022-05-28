@@ -1,1 +1,6 @@
+5th test file but first line
+>>>>>>> 58b265f8c4a530c1ce33bb7a8b1f96ddc8144588
+
+<<<<<<< HEAD
 5th test file but second line by 2nd user
+=======
